@@ -1,0 +1,10 @@
+.statList{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    list-style: none;
+}
+.item{
+    font-size: 24px;
+    font-weight: 600;
+}
